@@ -1,7 +1,11 @@
+def fizzbuzz(int)
+  
+
+
 fizz_3 = fizzbuzz(3)
 
 
-def fizzbuzz(int)
+
   
   
   
